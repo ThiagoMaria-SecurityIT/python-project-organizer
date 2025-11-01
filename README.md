@@ -42,7 +42,7 @@ A visual tool to organize and manage your Python projects across multiple folder
 
 ### Method 2: Manual Setup
 ```bash
-# Install dependencies
+# Install dependencies 
 pip install streamlit pandas plotly
 
 # Run the application
