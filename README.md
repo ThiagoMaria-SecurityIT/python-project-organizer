@@ -99,6 +99,8 @@ For each project, you can:
 - Add notes and reminders
 - Track last modification dates
 - Monitor project health scores
+  
+---
 
 ## 📊 Health Scoring System
 
@@ -110,13 +112,21 @@ Projects are automatically scored (0-100) based on:
 | **Requirements** | +15 | Has requirements.txt file |
 | **README** | +15 | Has README.md documentation |
 | **Python Files** | +20 | Number of .py files (capped) |
-| **Status Bonus** | ±30 | Based on project status |
+| **Status Bonus** | ±30 | Based on project status |  
+
+<img width="1675" height="655" alt="image" src="https://github.com/user-attachments/assets/be087259-1198-4b8f-8a91-ace6b16ccd31" />
+   
+--- 
 
 **Health Categories:**
 - 🟢 **Excellent (80-100)**: Well-maintained projects
 - 🟡 **Good (60-79)**: Solid projects with minor issues
 - 🟠 **Fair (40-59)**: Needs attention
-- 🔴 **Poor (0-39)**: Requires immediate action
+- 🔴 **Poor (0-39)**: Requires immediate action  
+
+<img width="1571" height="726" alt="image" src="https://github.com/user-attachments/assets/68cc70fd-fb3a-4ce9-8808-caf3c193b805" />  
+
+---
 
 ## 🗂️ Navigation Guide
 
